@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=F724A9&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Aspiring+AI%2FML+Engineer;Computer+Vision+Enthusiast;Full+Stack+Developer;Always+Learning+New+Tech" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=F724A9&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=60&lines=MERN+Stack+Developer;Java+Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Tech" />
   </a>
 </p>
 
@@ -17,16 +17,29 @@
 
 ### 🚀 About Me
 - 🎓 B.E. Computer Science Engineering Student
-- 🤖 Building AI, IoT & Web Projects
-- 🌱 Currently learning Machine Learning & React.js
-- 🚀 Interested in Computer Vision and Smart Automation
+- 💻 Started my journey with **MERN Stack** (MongoDB, Express, React, Node.js)
+- ☕ Now expanding into **Java Full Stack Development** (Java, Spring, MySQL)
+- 🌱 Currently learning Machine Learning & advanced backend concepts
+- 🚀 Interested in building real-world full stack projects
 - 📚 Always exploring new technologies
 
 ---
 
 ### 🛠️ Tech Stack
+
+**MERN Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+</p>
+
+**Java Full Stack**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -56,7 +69,6 @@
   <img src="https://raw.githubusercontent.com/codewithsudha08/codewithsudha08/output/github-contribution-grid-snake.svg" />
 </p>
 
->
 ---
 
 ### 📫 Connect With Me
@@ -64,4 +76,8 @@
   <a href="https://www.linkedin.com/in/code-with-sudha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/frumious_awesome_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/codewithsudha08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
