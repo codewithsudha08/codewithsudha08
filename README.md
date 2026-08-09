@@ -1,35 +1,15 @@
-<!-- ===================== HEADER ===================== -->
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sudhakar b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhakar b" height="30" width="40" /></a>
+<a href="https://instagram.com/frumious_awesome_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frumious_awesome_07" height="30" width="40" /></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Sudhakar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsudha08&show_icons=true&locale=en&layout=compact" alt="codewithsudha08" /></p>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sudhakar+%F0%9F%91%8B;CSE+Student+%F0%9F%8E%93;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Learning+HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%F0%9F%9A%80;Building+Projects+and+Learning+Every+Day+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsudha08&show_icons=true&locale=en" alt="codewithsudha08" /></p>
 
-<br><br>
-
-<a href="https://github.com/codewithsudha08">
-<img src="https://komarev.com/ghpvc/?username=codewithsudha08&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</a>
-
-<a href="https://github.com/codewithsudha08?tab=followers">
-<img src="https://img.shields.io/github/followers/codewithsudha08?label=FOLLOWERS&style=for-the-badge&color=1f6feb" alt="Followers" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```text
-🎓  CSE Student
-💻  Aspiring Full Stack Developer
-🌱  Learning HTML, CSS, JavaScript & Python
-🚀  Building projects and improving every day
-🧠  Exploring modern web technologies
-⚡  Turning ideas into real projects
