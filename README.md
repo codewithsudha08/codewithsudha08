@@ -56,8 +56,7 @@
   <img src="https://raw.githubusercontent.com/codewithsudha08/codewithsudha08/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ Snake animation work aaganum na, "GitHub Actions" workflow setup pannanum (below setup steps la explain pannirukken)
-
+>
 ---
 
 ### 📫 Connect With Me
